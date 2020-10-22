@@ -1,0 +1,10 @@
+[submodule "dpdk-1.8.0"]
+        path = dpdk
+        url = https://dpdk.org/git/dpdk
+        branch = master
+        commit = 0da7f445df445630c794897347ee360d6fe6348b
+[submodule "tools/Pktgen/pktgen-dpdk"]
+        path = tools/Pktgen/pktgen-dpdk
+        url = http://dpdk.org/git/apps/pktgen-dpdk
+        branch = master
+        commit = 4199555481cd08fe08e32986c94e59836ca1cd4f 
